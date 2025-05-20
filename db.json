@@ -2,43 +2,43 @@
     "students": [
         {
             "id": 1,
-            "Name": "Hannah Paine"
+            "name": "Hannah Paine"
         },
         {
             "id": 2,
-            "Name": "Josie Rodgers"
+            "name": "Josie Rodgers"
         },
         {
             "id": 3,
-            "Name": "Elias Stevenson"
+            "name": "Elias Stevenson"
         },
         {
             "id": 4,
-            "Name": "Belinda Kelley"
+            "name": "Belinda Kelley"
         },
         {
             "id": 5,
-            "Name": "Alberta Shultz"
+            "name": "Alberta Shultz"
         },
         {
             "id": 6,
-            "Name": "Deb Benjamin"
+            "name": "Deb Benjamin"
         },
         {
             "id": 7,
-            "Name": "Spencer Hood"
+            "name": "Spencer Hood"
         },
         {
             "id": 8,
-            "Name": "Chuck Tran"
+            "name": "Chuck Tran"
         },
         {
             "id": 9,
-            "Name": "Abel Foley"
+            "name": "Abel Foley"
         },
         {
             "id": 10,
-            "Name": "Billy Hill"
+            "name": "Billy Hill"
         }
     ],
     "attendances": [
